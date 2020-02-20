@@ -1,0 +1,14 @@
+.favorites {
+  border-radius: 8px;
+  width: 250px;
+  border:1px solid black;
+}
+#goals {
+  border: 10px solid black;
+  width: 75%;
+  margin: auto;
+}
+body {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
